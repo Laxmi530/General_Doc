@@ -1,0 +1,41 @@
+supervised
+	Regression
+		linear regression
+			in stat is the process of predicting the label based on the independent varibale 
+				
+		decession tree regression
+			deep overfitted model - to tackle this we can use prunning, ginni and entropy (the lesser the entropy the higher the information gain)
+		SVM
+		Random forest(bagging- reducing the variance in a model without impacting the bias, it is called as bootstrap aggergation)
+		Random forest = DT(base model)+bagging(row sampling with replacement)+column sampling(features)	
+			bootstrap = sampling with replacement
+			aggergation = aggregating the model
+		Gradient boosting(boosting)
+			GBDT = psudo residual + Additive(lr like this)
+			it consist of shallow decession tree where high bias low variance
+			Psudo resudual, regularization, srinkage using these three technique reduce bias
+			Psudo resudual - intermediate error rate
+			srinkage - learning rate(range from 0-1)
+		XG boost regression(boosting)
+			Extra gradient boosting 
+			XG boost = GBDT + row sampling + column sampling 
+		Ada boosting(boosting) - this is for good image
+			
+		Stacking - This is called MLxtend classifier
+		
+		Casceding - 
+				
+	classification
+		Logistic regression
+		KNN
+		decession tree regression
+		SVM
+		Random forest
+		Gradient boosting
+		XG boost regression
+
+unsupervised
+	k-mean
+	Hierarchal clustering
+		
+reinforsement
