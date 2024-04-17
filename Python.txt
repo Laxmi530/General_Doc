@@ -1,0 +1,83 @@
+Basic Level
+•	1. What is Python?
+•	2. What is a dynamically typed language?
+•	3. What is an Interpreted language?
+•	4. What is PEP 8 and why is it important?
+•	5. What is Scope in Python?
+•	6. What are lists and tuples? What is the key difference between the two?
+•	7. What are the common built-in data types in Python?
+•	8. What is pass in Python?
+•	9. What are modules and packages in Python?
+•	10. What are global, protected and private attributes in Python?
+•	11. What is the use of self in Python?
+•	12. What is __init__?
+•	13. What is break, continue and pass in Python?
+•	14. What are unit tests in Python?
+•	15. What is docstring in Python?
+•	16. What is slicing in Python?
+•	17. Explain how can you make a Python Script executable on Unix?
+•	18. What is the difference between Python Arrays and lists?
+High Level:-
+•	1. How is memory managed in Python?
+•	2. What are Python namespaces? Why are they used?
+•	3. What is Scope Resolution in Python?
+•	4. What are decorators in Python?
+•	5. What are Dict and List comprehensions?
+•	6. What is lambda in Python? Why is it used?
+•	7. How do you copy an object in Python?
+•	8. What is the difference between xrange and range in Python?
+•	9. What is pickling and unpickling?
+•	10. What are generators in Python?
+•	11. What is PYTHONPATH in Python?
+•	12. What is the use of help() and dir() functions?
+•	13. What is the difference between .py and .pyc files?
+•	14. How Python is interpreted?
+•	15. How are arguments passed by value or by reference in python?
+•	16. What are iterators in Python?
+•	17. Explain how to delete a file in Python?
+•	18. Explain split() and join() functions in Python?
+•	19. What does *args and **kwargs mean?
+•	20. What are negative indexes and why are they used?
+Oops :- 
+•	1. How do you create a class in Python?
+•	2. How does inheritance work in python? Explain it with an example.
+•	3. How do you access parent members in the child class?
+•	4. Are access specifiers used in python?
+•	5. Is it possible to call parent class without its instance creation?
+•	6. How is an empty class created in python?
+•	7. Differentiate between new and override modifiers.
+•	8. Why is finalize used?
+•	9. What is init method in python?
+•	10. How will you check if a class is a child of another class?
+Pandas :- 
+•	1. What do you know about pandas?
+•	2. Define pandas dataframe.
+•	3. How will you combine different pandas dataframes?
+•	4. Can you create a series from the dictionary object in pandas?
+•	5. How will you identify and deal with missing values in a dataframe?
+•	6. What do you understand by reindexing in pandas?
+•	7. How to add new column to pandas dataframe?
+•	8. How will you delete indices, rows and columns from a dataframe?
+•	9. Can you get items of series A that are not available in another series B?
+•	10. How will you get the items that are not common to both the given series A and B?
+•	11. While importing data from different sources, can the pandas library recognize dates?
+Numpy :-
+•	1. What do you understand by NumPy?
+•	2. How are NumPy arrays advantageous over python lists?
+•	3. What are the steps to create 1D, 2D and 3D arrays?
+•	4. You are given a numpy array and a new column as inputs. 
+	   How will you delete the second column and replace the column with a new column value?
+•	5. How will you efficiently load data from a text file?
+•	6. How will you read CSV data into an array in NumPy?
+•	7. How will you sort the array based on the Nth column?
+•	8. How will you find the nearest value in a given numpy array?
+•	9. How will you reverse the numpy array using one line of code?
+•	10. How will you find the shape of any given NumPy array?
+Important Libraries:-
+•	1. Differentiate between a package and a module in python.
+•	2. What are some of the most commonly used built-in modules in Python?
+•	3. Define PYTHONPATH.
+•	4. Define PIP.
+•	5. Are there any tools for identifying bugs and performing static analysis in python?
+•	6. Differentiate between deep and shallow copies.
+•	7. What is main function in python? How do you invoke it?
