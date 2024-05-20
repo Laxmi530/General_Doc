@@ -1,0 +1,85 @@
+Statistics
+	What is random variable ?
+		It is A VARIABLE THAT CAN TAKE on diff value each with a certain probability
+
+	what is up sampling and down sampling ?
+		Upsampling is the process of randomly duplicating observations from the minority class to reinforce its signal.
+		Downsampling involves randomly removing observations from the majority class to prevent its signal from dominating the learning algorithm.
+
+	What is the statistical test for data validation with an exapmle like chi-square, annova test, z-stat, t-stat, f-stat and hypothesis
+		The Chi-Square Statistic is a number that describes the relationship between the theoretically assumed data and the actual data. 
+		(https://towardsdatascience.com/chi-square-statistic-chi-squared-distribution-2499084b5da8)
+		
+		ANOVA analysis of variance - it is used to comapare multiple sample with a single test
+		(https://towardsdatascience.com/anova-analysis-of-variance-explained-b48fee6380af)
+		
+		z-stat Z-Score in Statistics is a measurement of how many standard deviations a data point is from the mean of a distribution. Let’s find z score in 		statistics. A z-score of 0 indicates that the data point’s score is the same as the mean score. A positive z-score indicates that the data 			point is above average, while a negative z-score indicates that the data point is below average.(https://www.geeksforgeeks.org/z-score-in-statistics/)
+		(https://towardsdatascience.com/z-test-simply-explained-80b346e0e239#:~:text=This%20is%20used%20to%20determine,is%20from%20the%20populations%27%		20mean.)
+		
+		t-stat - In this test is used when the population parameter (mean and SD) are unknow 
+		The t-statistic is used in a t-test to determine whether to support or reject the null hypothesis. It is very similar to the z-score but with the 		difference that t-statistic is used when the sample size is small or the population standard deviation is unknown.
+		
+		f-stat - It is desined to test if two population variance are equal. It compare the ratio of two variance. Therefore if the varince are eqaal then the 		ratio of varince will be 1. If the null hypothesis is true then f-stat given above can be simplified we can take the SV for the tested stst use if null 		hypothesis is false that means the ratio is 1 that means that varince are equal.
+	
+	Central limit therom ?
+	
+	What is corelation and coefficient ?
+		corelation - That cal strength of relationship betn the relative movement of two variable. The range betn -1 to +1. 
+	
+	diff covariance and independence ?
+	
+	fourier transformer
+
+	Box cox transformation
+
+	what does p-value signify about the stastical data
+		It is used to determine significance result after a hypothesis test in stastics. The range bet 0-1, if the p value is >0.05 then weak evidance against 		null hypothesis that means null hypothesis can be reject that means null hypothesis is True. If the p value < 0.05 then strong evidence against null 		hypothesis that means null hypothesis can be considered that means null hypothesis is False. If the p value = 0.05 it is possible to either way. 
+
+	kl divergence
+	
+	
+
+
+
+Statistics
+
+	What is random variable ?
+		It is A VARIABLE THAT CAN TAKE on diff value each with a certain probability
+
+	what is up sampling and down sampling ?
+		This is also called balance and imbalance learning.
+		it is the process of randomly duplicating the sample from the minority classes to reinforce its signal
+		it is the process of randomly removing the sample from the majority classes to prevent signal from dominating the learning algo
+
+	What is the statistical test for data validation with an example like chi-square, annova test, z-stat, t-stat, f-stat and hypothesis
+		The Chi-Square Statistic is a number that describes the relationship between the theoretically assumed data and the actual data. 
+		(https://towardsdatascience.com/chi-square-statistic-chi-squared-distribution-2499084b5da8)
+		
+		ANOVA analysis of variance - it is used to compare multiple sample with a single test
+		(https://towardsdatascience.com/anova-analysis-of-variance-explained-b48fee6380af)
+		
+		z-stat Z-Score in Statistics is a measurement of how many standard deviations a data point is from the mean of a distribution. Let’s find z score in 		statistics. A z-score of 0 indicates that the data point’s score is the same as the mean score. A positive z-score indicates that the data 			point is above average, while a negative z-score indicates that the data point is below average.(https://www.geeksforgeeks.org/z-score-in-statistics/)
+		(https://towardsdatascience.com/z-test-simply-explained-80b346e0e239#:~:text=This%20is%20used%20to%20determine,is%20from%20the%20populations%27%		20mean.)
+		
+		t-stat - In this test is used when the population parameter (mean and SD) are unknow 
+		The t-statistic is used in a t-test to determine whether to support or reject the null hypothesis. It is very similar to the z-score but with the 		difference that t-statistic is used when the sample size is small or the population standard deviation is unknown.
+		
+		f-stat - It is designed to test if two population variance are equal. It compare the ratio of two variance. Therefore if the variance are equal then 		the ratio of variance will be 1. If the null hypothesis is true then f-stat given above can be simplified we can take the SV for the tested stst use if 		null hypothesis is false that means the ratio is 1 that means that variance are equal.
+	
+	Central limit theorem ?
+	
+	What is correlation and coefficient ?
+		correlation - That calculate strength of relationship between the relative movement of two variable. The range between -1 to +1. 
+	
+	diff covariance and independence ?
+	
+	Fourier transformer
+
+	Box cox transformation
+
+	what does p-value signify about the statistical data
+		It is used to determine significance result after a hypothesis test in statistics. The range bet 0-1, if the p value is >0.05 then weak evidence 		against null hypothesis that means null hypothesis can be reject that means null hypothesis is True. If the p value < 0.05 then strong evidence against 		null hypothesis that means null hypothesis can be considered that means null hypothesis is False. If the p value = 0.05 it is possible to either way. 
+
+	kl divergence
+		https://towardsdatascience.com/understanding-kl-divergence-f3ddc8dff254	
+	

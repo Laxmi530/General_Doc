@@ -1,0 +1,34 @@
+Probability
+	what is conditional probability
+		Conditional probability is one of the types of probability in probability theory, where the probability of one event is dependent on the other event 		already happened. P(A|B) = P (A ∩ B) / P(B) 
+		P (A ∩ B) represents the probability of both events A and B occurring simultaneously.
+		P(B) represents the probability of event B occurring.	
+		P(A|B) is known as conditional probability and it means the probability of event A that depends on another event B 
+	
+	Bayes theorem
+		P(A|B) = P (A ∩ B) / P(B) 
+		P(B|A) = P (B ∩ A) / P(A) 
+		P(B|A)*P(A) = P(B ∩ A)
+		P(A|B) = P(B|A)*P(A) / P(B) 
+		Bayes Theorem is used to determine the conditional probability of an event.  It is used to find the probability of an event, based on prior knowledge 		of conditions that might be related to that event.
+	
+	What is Bernoulli Distribution?
+		Bernoulli Distribution includes a random variable with only two possible outcomes. When the variable is equal to 1, it represents success with the 		probability p. Whereas, when the variable is equal to 0, it shows failure. The probability of failure is q, which is calculated as 1-p.
+	
+	What is binomial distribution ?
+		Binomial Distribution in Probability gives information about only two types of possible outcomes i.e. Success or Failure. Binomial Probability 			Distribution is a discrete probability distribution used for the events that give results in ‘Yes or No’ or ‘Success or Failure’. It’s particularly 		useful in scenarios where these outcomes are mutually exclusive, and the probability of success (usually denoted as “p”) and the probability of failure 		(usually denoted as “q”) is constant for each trial.
+	
+	Binomial VS Bernoulli Keypoints!
+		Bernoulli deals with the outcome of the single trial of the event, whereas Binomial deals with the outcome of the multiple trials of the single event.
+		Bernoulli is used when the outcome of an event is required for only one time, whereas the Binomial is used when the outcome of an event is required 		multiple times.
+	
+	What is p-value
+		The p-value, or probability value, is a statistical measure used in hypothesis testing to assess the strength of evidence against a null hypothesis. It 		represents the 	probability of obtaining results as extreme as, or more extreme than, the observed results under the assumption that the null 			hypothesis is true. A P-value less than 0.5 is statistically significant, while a value higher than 0.5 indicates the null hypothesis is true; hence it 		is not statistically significant. The smaller the p-value, the stronger the likelihood that you should reject the null hypothesis.  The smaller the P-		value, the more significant your results are. 
+		
+	What is the difference between type-1 and type-2 error?
+		type-1 error: rejecting Ho when Ho is true
+		type-2 error: not rejecting Ho when Ha is true
+	
+	What is a confidence interval and how do you interpret it?
+		(https://towardsdatascience.com/confidence-interval-are-you-interpreting-correctly-a8834ba5a99b)
+		

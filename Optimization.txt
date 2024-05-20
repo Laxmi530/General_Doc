@@ -1,0 +1,42 @@
+Optimization :-	reduce the cost of the function and helps to make accurate prediction
+	
+	What is gradient decent
+		gradient meaning curve
+		
+	batch gradient decent (vanila gradient decent)
+		Applying in the entire data batch at once.
+	
+	stochatics gradient decent
+		it will apply every single data point.		
+	
+	mini batch gradient decent
+		breaking the data set in to small batches. It converge faster and more stable.		
+		(https://medium.com/@dancerworld60/mini-batch-gradient-descent-1c36b8103f2c)
+		(https://www.geeksforgeeks.org/ml-mini-batch-gradient-descent-with-python/)
+		(https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a)
+
+	Adam 
+		(https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
+		(https://medium.com/@anushka.datascoop/deep-learning-optimizers-101-12fe3f93136d)
+	Nadam
+		(https://towardsdatascience.com/the-math-behind-nadam-optimizer-47dc1970d2cc)
+
+Loss function :-
+	(https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
+	(https://towardsdatascience.com/importance-of-loss-function-in-machine-learning-eddaaec69519)
+	(https://www.geeksforgeeks.org/ml-common-loss-functions/)
+
+
+Activation function :-
+	Sigmoid
+	used in logistics regression
+
+	tanh
+	This is also caled hyporabolic tangent
+
+	relu
+	
+Learning Rate is a hyperparameter or tuning parameter that determines the step size at each iteration while moving towards minima in the function. 
+
+Why to use activation function
+How can you find the global minimum what are the steps you will take to reach global minimum.
